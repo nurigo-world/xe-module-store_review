@@ -3,6 +3,7 @@
  * @class store_review
  * @author NURIGO(contact@nurigo.net)
  * @brief store_review module's high class
+ * test modification
  **/
 require_once(_XE_PATH_.'modules/store_review/store_review.item.php');
 class store_review extends ModuleObject {
